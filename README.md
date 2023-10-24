@@ -1,7 +1,7 @@
 # Nombre del Proyecto
 
-[![Java Version](https://img.shields.io/badge/Java-11-blue.svg)](https://www.oracle.com/java/)
-[![Spring Version](https://img.shields.io/badge/Spring-5.3.9-green.svg)](https://spring.io/projects/spring-framework)
+[![Java Version](https://img.shields.io/badge/Java-1.8-blue.svg)](https://www.oracle.com/java/)
+[![Spring Version](https://img.shields.io/badge/Spring-2.7.9-green.svg)](https://spring.io/projects/spring-framework)
 
 Descripción corta del proyecto.
 
