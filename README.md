@@ -1,7 +1,6 @@
 ## Enlace Importante 🚀📺
 
 [![Video Tutorial](https://img.shields.io/badge/Ver%20Tutorial-Video-red.svg)](URL_DEL_VIDEO)
-[![Información Importante](https://img.shields.io/badge/Informaci%C3%B3n-Importante-orange.svg)](URL_DE_LA_INFORMACION_IMPORTANTE)
 
 Aquí puedes encontrar un [video tutorial](URL_DEL_VIDEO) sobre la explicación de mi proyecto.
 
