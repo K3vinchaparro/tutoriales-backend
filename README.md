@@ -1,8 +1,8 @@
 ## Enlace Importante 🚀📺
 
-[![Video Tutorial](https://img.shields.io/badge/Ver%20Tutorial-Video-red.svg)](URL_DEL_VIDEO)
+[![Video Tutorial](https://img.shields.io/badge/Ver%20Tutorial-Video-red.svg)]((https://www.loom.com/share/e1ee3ea9ca894310a0ed9302c1845561?sid=f0f55e13-b7c2-4450-87ee-1b5ab737cf58))
 
-Aquí puedes encontrar un [video tutorial](URL_DEL_VIDEO) sobre la explicación de mi proyecto.
+Aquí puedes encontrar un [video tutorial]((https://www.loom.com/share/e1ee3ea9ca894310a0ed9302c1845561?sid=f0f55e13-b7c2-4450-87ee-1b5ab737cf58)) sobre la explicación de mi proyecto.
 
 # Nombre del Proyecto
 
